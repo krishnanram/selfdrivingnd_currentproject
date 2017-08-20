@@ -43,7 +43,7 @@ Alternatively
 ## Output
 
     Observe how the car is able to navigate the road. Increase the speed and try again. Adjust the kd, ki params if needed
-    I have recorded few cycles of Simulated run in ./video/pid-control-video.mov
+    Note : The output video is huge and could not check in to git. Please run in the Simulator and observe
 
 
 ## Reflection
