@@ -31,7 +31,7 @@ In the model, the cross track error is calculated and a latency of 100 milliseco
 	./experiments directory contains various experiments during optimization process. Review run.sh of various experiments. The results are documented in My Reflecton o MPC PDF
 
 ### MPC with Latency
-Latency of `100ms` was accounted for in the global kinematic model (Sec: 1.1 No.1 ) implementation. A `dt` of `0.1` was chosen. It was observed that the model performed better with the global kinematic model implementation.
+Latency of `100ms` was accounted for in the global kinematic model implementation. A `dt` of `0.05` was chosen. It was observed that the model performed better with the global kinematic model implementation.
 
 ## 2.0 Simulation
 Follow the link below to see a video of the result of the MPC implementation in the simulator.
